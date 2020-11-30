@@ -58,6 +58,7 @@ With the run file set up, we can run `ruby bin/run` and see the run
 file in action. Let's step through this file briefly.
 
 #### The Shebang Line
+ruby bin/ru8n
 
 The very first line of `bin/run` can be broadly ignored for our
 purposes. It is known as a [_shebang_][] and is used to indicate what
